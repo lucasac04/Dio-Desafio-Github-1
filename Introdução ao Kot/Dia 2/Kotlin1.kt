@@ -14,4 +14,4 @@ if (age in MIN_AGE..MAX_AGE){
     
 }
 }
-//Treino para memorizar as aulas assistidas
+//Treino para memorizar as aulas assistidas, if e else aprendidos em conhecimentos prévios de lógica da progamação
